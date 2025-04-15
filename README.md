@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/feed/" target="_blank">
+  <a href="https://www.linkedin.com/in/ernestbent/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://x.com/OthienoBenedic2" target="_blank">
