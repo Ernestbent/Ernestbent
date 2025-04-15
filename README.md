@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ernest Bent!
+# 👋 Hi there, I'm Othieno Benedict Ernest!
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building sleek, efficient, and user-friendly apps across web and mobile platforms.
 
@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **mobile & web development projects**
-- 🌱 I’m learning more about **AI integration and scalable backends**
+- 🌱 I’m learning more about the **Frappe framework** currently
 - 💬 Ask me about **Flutter, React, or building REST APIs**
 - ⚡ Fun fact: I love turning complex ideas into simple, working products
 
