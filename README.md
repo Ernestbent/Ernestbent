@@ -40,12 +40,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
 
 ---
 
-### 💼 Experience & Projects
-- **Mobile App Developer** - Created cross-platform apps with Flutter and React Native
-- **Web Developer** - Designed responsive web applications using React and PHP
-- **API Designer** - Built RESTful APIs for various business applications
-
-
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ernestbent&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
