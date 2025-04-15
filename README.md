@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ernest Bent!
+# 👋 Hi there, I'm Othieno Benedict Ernest!
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building sleek, efficient, and user-friendly apps across web and mobile platforms.
 
 ---
@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
 - 🔭 I'm currently working on **mobile & web development projects**
 - 🌱 I'm learning more about the **Frappe framework** currently
 - 💬 Ask me about **Flutter, React, or building REST APIs**
-- ⚡ Fun fact: I love turning complex ideas into simple, working products
-
+- 📫 How to reach me: **benedict@phenomadvisory.com**
 ---
 
 ### 🚀 Tech Stack
@@ -41,6 +40,12 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
 
 ---
 
+### 💼 Experience & Projects
+- **Mobile App Developer** - Created cross-platform apps with Flutter and React Native
+- **Web Developer** - Designed responsive web applications using React and PHP
+- **API Designer** - Built RESTful APIs for various business applications
+
+
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ernestbent&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
@@ -57,8 +62,9 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
   <a href="https://x.com/OthienoBenedic2" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (formerly Twitter)" height="30" width="40" />
   </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio Website" height="30" width="40" />
+  </a>
 </p>
 
----
-
->
+> 
