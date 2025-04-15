@@ -62,9 +62,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
   <a href="https://x.com/OthienoBenedic2" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (formerly Twitter)" height="30" width="40" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio Website" height="30" width="40" />
-  </a>
 </p>
 
 > 
