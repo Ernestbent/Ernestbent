@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Othieno Benedict Ernest!
+# 👋 Hi there, I'm Ernest Bent!
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building sleek, efficient, and user-friendly apps across web and mobile platforms.
 
@@ -56,11 +56,11 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  <a href="https://x.com/OthienoBenedic2" target="_blank">
+    <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
 </p>
 
