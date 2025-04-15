@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Ernest Bent!
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building sleek, efficient, and user-friendly apps across web and mobile platforms.
 
@@ -47,8 +47,8 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ernestbent&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernestbent&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
