@@ -61,4 +61,4 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+>
