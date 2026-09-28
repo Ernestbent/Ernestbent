@@ -42,11 +42,14 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sle
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Ernestbent/Ernestbent/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" height="180" />
-  <img src="https://raw.githubusercontent.com/Ernestbent/Ernestbent/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Used Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ernestbent&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats and Rank" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Ernestbent&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 <p align="left">
+  <img src="https://raw.githubusercontent.com/Ernestbent/Ernestbent/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Used Languages" height="180" />
   <img src="https://raw.githubusercontent.com/Ernestbent/Ernestbent/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" height="180" />
+</p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/Ernestbent/Ernestbent/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" height="180" />
 </p>
 
