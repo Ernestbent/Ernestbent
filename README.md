@@ -129,18 +129,6 @@ Welcome to my GitHub profile! I'm a software developer focused on building effic
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="left">
-  <img
-    src="https://streak-stats.demolab.com/?user=Ernestbent&theme=radical&hide_border=true"
-    alt="Othieno Benedict Ernest's GitHub Streak"
-    height="180"
-  />
-</p>
-
----
-
 ### 💻 Most Used Languages
 
 <p align="left">
@@ -150,6 +138,23 @@ Welcome to my GitHub profile! I'm a software developer focused on building effic
     height="180"
   />
 </p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=Ernestbent&theme=radical&hide_border=true"
+    alt="Othieno Benedict Ernest's GitHub Streak"
+  />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+[![Othieno Benedict Ernest's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ernestbent&theme=redical&hide_border=true)](https://github.com/Ernestbent)
 
 ---
 
