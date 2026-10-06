@@ -51,12 +51,46 @@ I have worked on **EFRIS (URA Uganda)** integration and **WhatsApp Business API*
     <br>JavaScript
   </td>
   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+    <br>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
+    <br>HTML
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
+    <br>CSS
+  </td>
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/>
     <br>Flutter
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart"/>
     <br>Dart
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
+    <br>C
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+    <br>C++
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/>
+    <br>C#
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+    <br>Java
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX"/>
+    <br>LaTeX
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
@@ -66,12 +100,12 @@ I have worked on **EFRIS (URA Uganda)** integration and **WhatsApp Business API*
     <img src="https://skillicons.dev/icons?i=mariadb" width="48" height="48" alt="MariaDB"/>
     <br>MariaDB
   </td>
-</tr>
-<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
     <br>Docker
   </td>
+</tr>
+<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
     <br>Linux
