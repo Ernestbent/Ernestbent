@@ -129,9 +129,13 @@ I have worked on **EFRIS (URA Uganda)** integration and **WhatsApp Business API*
     <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
     <br>VS Code
   </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+    <br>Postman
+  </td>
 </tr>
 </table>
 
 <p align="center">
-  Also working with: <b>Frappe</b> | <b>ERPNext</b> | <b>EFRIS</b> | <b>WhatsApp Business API</b>
+  Also working with: <b>Frappe</b> | <b>ERPNext</b> | <b>Bruno</b> | <b>REST APIs</b> | <b>EFRIS</b> | <b>WhatsApp Business API</b>
 </p>
